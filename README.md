@@ -1,0 +1,4 @@
+MineApp
+=======
+
+Heroku Mine Application
